@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Workspaces/Jars for reference/jpcap/jpcap.jar" sourcepath="D:/Workspaces/Jars for reference/jpcap/jpcap-0.6/src/java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
